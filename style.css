@@ -46,7 +46,7 @@ a:hover{
 }
 
 body {
-  background: url(images/test1.jpg);
+  background: url(test1.jpg);
   background-repeat: repeat;
   background-size: 1480px 830px;
   font-size: 15px;
